@@ -1,0 +1,6 @@
+Instancia 	 	 	 	  	 	 	& n 	 	 & m 	 	 & Tiempo tardado CSR 	 & test_result 	 	  & Tiempo tardado DOKS 	 & test_result 	 	
+test_antisupernodo__cat100.txt 	 	 	 	 	 & 100 	 	 & 99 	 	 & 0.01197400 seg 	   & 	OK& 	0.08864067 seg 	   & 	OK& 	
+test_supernodo_cat_100.txt 	 	 	 	 	 & 100 	 	 & 99 	 	 & 0.01741564 seg 	   & 	OK& 	0.11350566 seg 	   & 	OK& 	
+test_wikipedia10.txt 	 	 	 	 	 & 10 	 	 & 15 	 	 & 0.00016099 seg 	   & 	OK& 	0.00029219 seg 	   & 	OK& 	
+test_wikipedia50.txt 	 	 	 	 	 & 50 	 	 & 99 	 	 & 0.00195091 seg 	   & 	OK& 	0.01182150 seg 	   & 	OK& 	
+completo25x25.txt 	 	 	 	 	 & 25 	 	 & 625 	 	 & 0.00231570 seg 	   & 	OK& 	0.00434803 seg 	   & 	OK& 	

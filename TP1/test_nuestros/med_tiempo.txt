@@ -1,0 +1,2 @@
+Instancia 	 	 	 	  	 	 	& n 	 	 & m 	 	 & Tiempo tardado DOKS 	 & test_result 	 	  & Tiempo tardado CSR 	 & test_result 	 	
+test_15_segundos.txt 	 	 	 	 	 & 32683 	 	 & 24 	 	 & 460.53332351 seg 	   & 	OK& 	11332.67122160 seg 	   & 	OK& 	
